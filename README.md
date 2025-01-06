@@ -4,3 +4,4 @@ Criaremos um projeto no Power Bi completo e integraremos
 
 Depois faremos isso com Fabric
 
+E ainda replicaremos com AzureDevOps!
